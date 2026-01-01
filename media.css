@@ -1,0 +1,177 @@
+@media (max-width: 768px) {
+  .damandskill ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 100%;
+  }
+  .signupbtn {
+    width: 50%;
+  }
+  .card_container {
+    overflow-x: hidden;
+  }
+  .text {
+    display: none;
+  }
+  .iteams {
+    padding-bottom: 20px;
+  }
+  .fixedBTN {
+    padding-top: 10px;
+  }
+  .dropdown.d-none.d-md-block {
+    display: none !important;
+  }
+  .custom-img {
+    width: 80%;
+  }
+
+  .app_img {
+    display: none;
+  }
+  #whatbtn,
+  #callusbtn {
+    font-size: 14px;
+    padding: 7px 12px;
+  }
+  #logo {
+    justify-content: start;
+  }
+  #SignUpbtn {
+    display: none;
+  }
+  .body-nav {
+    border-radius: 10px !important;
+    padding: auto;
+  }
+  .fontsize {
+    font-size: 28px;
+  }
+  .marginto {
+    margin-top: 165px;
+  }
+  .card_option {
+    font-size: 35px;
+  }
+  .skills-container {
+    padding: 40px 20px;
+  }
+
+  .main-title {
+    font-size: 1.8rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+  }
+
+  .skills-carousel {
+    margin: 0 40px;
+  }
+
+  .carousel-btn {
+    width: 40px;
+    height: 40px;
+  }
+
+  .carousel-btn.left {
+    left: -40px;
+  }
+
+  .carousel-btn.right {
+    right: -40px;
+  }
+
+  .skill-badge {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+  .footer_top p {
+    margin-top: 30px;
+  }
+  .appdownloa{
+    height: auto;
+    width: 150px;
+  }
+  .footer_responsive{
+    padding: 20px;
+  }
+  .logo_responsive{
+    text-align: center;
+  }
+}
+@media (max-width:1435px){
+  .scanner-line{
+    display: none !important;
+  }
+}
+@media (max-width:1210px) {
+  .scanner{
+    display: none !important;
+    
+  }
+  
+  .app-dowload{
+    display: none !important;
+  }
+  .card_btn{
+    display: none !important;
+  }
+}
+@media (min-width: 425px) and (max-width: 1000px) {
+  .navbar {
+    margin: auto;
+  }
+}
+
+@media (max-width: 576px) {
+  .skills-carousel {
+    margin: 0 20px;
+  }
+
+  .carousel-btn.left {
+    left: -20px;
+  }
+
+  .carousel-btn.right {
+    right: -20px;
+  }
+
+  .main-title {
+    font-size: 1.5rem;
+  }
+
+  .subtitle {
+    font-size: 0.95rem;
+  }
+}
+
+@media (min-width: 767px) {
+  #signup {
+    display: none;
+  }
+
+  .fontsize {
+    font-size: 50px;
+  }
+  .img-fluid {
+    margin-right: 80px;
+  }
+  .marginto {
+    margin-top: 70px;
+  }
+  .iteams {
+    padding-bottom: 50px;
+  }
+  .footer_top {
+    margin-left: 140px;
+    margin-right: 140px;
+  }
+  .ratedpart{
+  margin-left: 277px;
+  margin-top: 20px;
+}
+.big-horizental-line{
+  width: 1381px;
+}
+}
